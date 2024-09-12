@@ -1,5 +1,14 @@
 # 💫 About Me:
-i am 18yr old student<br>studying cs at Adi Sankara Institute of engineering as freshman<br>hobbies are learning about new technologies and new era and badminaton
+I am an 18-year-old Computer Science freshman at Adi Sankara Institute of Engineering, passionate about exploring cutting-edge technologies and their real-world applications. My interests span across software development, web design, and mobile apps. I constantly seek to innovate and apply my skills to build impactful solutions.
+
+Projects
+Nair Kalyanam (nairkalyanam.in) – A web-based platform designed for community matrimony services.
+Monaisfpv (monaisfpv.in) – A project that focuses on FPV drone technology and its applications.
+Driving School App – A mobile app developed to assist driving schools with student management and scheduling.
+Hobbies
+When I’m not coding, I enjoy keeping up with the latest tech trends and playing badminton.
+
+
 
 
 ## 🌐 Socials:

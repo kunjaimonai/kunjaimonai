@@ -17,27 +17,18 @@ Drone Technology (FPV)
 
 Humanitarian & Community-driven Tech
 
-UI/UX & Product Design
 
 🚀 Projects
 ### 🎨 HunarGyan — Smart Offline-First AI Assistant for Indian Artisans
-<p align="center"> <img src="https://github.com/user-attachments/assets/b8ad5ab1-ab34-443b-b5da-de3d1b929713" alt="HunarGyan Logo" width="250"> </p>
 🇮🇳 Empowering weavers, potters, and woodworkers with AI — even without internet.
-
 HunarGyan is a hybrid offline-first AI assistant that allows artisans to:
 
 🎙️ Record craft processes (voice/text)
-
 📄 Document crafts step-by-step offline
-
 📢 Auto-generate marketing content using local AI models
-
 🎨 Generate design suggestions from sketches
-
 🔤 Translate Indian languages using local Sarvam-M
-
 🌐 Publish online only when connectivity is available
-
 
 A hackathon project crafted to support rural artisans and preserve Indian craftsmanship.
 
